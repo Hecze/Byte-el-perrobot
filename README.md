@@ -11,7 +11,7 @@ Empoderar a las mentes curiosas para que exploren y experimenten con la IA.
 Renovar las estrategias educativas. y convertir a los estudiantes en arquitectos de un mundo digital reinventado.
 
 # Componentes de Byte
-1. 8 servomotores SG-5010: https://electropro.pe/index.php?route=product/product&product_id=389
+1. 8 servomotores SG-5010: https://acortar.link/WI8Fec
 2. 20 piezas ensambladas e impresas en 3D: https://acortar.link/oXaMDU
 3. Arduino UNO
    
