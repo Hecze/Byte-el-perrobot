@@ -1,6 +1,6 @@
 # Byte, el perrobot
 Educamos y empoderamos a través de kits programables basados en Arduino.
-Basta con crear una rama para ver en persona tu version personalizada de byte.
+Basta con crear una rama en este repositorio para ver en persona tu version personalizada de byte.
 
 [![Whats-App-Image-2023-11-15-at-8-34-12-PM.jpg](https://i.postimg.cc/zXnHW7Hh/Whats-App-Image-2023-11-15-at-8-34-12-PM.jpg)](https://postimg.cc/6ypQxd06)
 
