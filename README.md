@@ -2,7 +2,7 @@
 Educamos y empoderamos a través de kits programables basados en Arduino.
 Basta con crear una rama para ver en persona tu version personalizada de byte.
 
-     [![Whats-App-Image-2023-11-15-at-8-34-12-PM.jpg](https://i.postimg.cc/zXnHW7Hh/Whats-App-Image-2023-11-15-at-8-34-12-PM.jpg)](https://postimg.cc/6ypQxd06)
+[![Whats-App-Image-2023-11-15-at-8-34-12-PM.jpg](https://i.postimg.cc/zXnHW7Hh/Whats-App-Image-2023-11-15-at-8-34-12-PM.jpg)](https://postimg.cc/6ypQxd06)
 
 # Misión
 Empoderar a las mentes curiosas para que exploren y experimenten con la IA.
