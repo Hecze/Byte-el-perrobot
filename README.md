@@ -13,5 +13,6 @@ Renovar las estrategias educativas. y convertir a los estudiantes en arquitectos
 # Componentes de Byte
 1. 8 servomotores SG-5010: https://electropro.pe/index.php?route=product/product&product_id=389
 2. 20 piezas ensambladas e impresas en 3D: https://drive.google.com/drive/folders/10C5C1JzhmgYuZMAOkj53u6TGYFELqrOG
+3. Arduino UNO
    
 [![Whats-App-Image-2023-11-18-at-9-24-41-AM.jpg](https://i.postimg.cc/sXXgN92T/Whats-App-Image-2023-11-18-at-9-24-41-AM.jpg)](https://postimg.cc/67kK7ZnZ)
