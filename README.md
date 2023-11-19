@@ -8,7 +8,7 @@ Empoderar a las mentes curiosas para que exploren y experimenten con la IA.
 # Visión
 Renovar las estrategias educativas. y convertir a los estudiantes en arquitectos de un mundo digital reinventado
 
-[![Whats-App-Image-2023-11-18-at-12-44-44-PM.jpg](https://i.postimg.cc/zfwhrj85/Whats-App-Image-2023-11-18-at-12-44-44-PM.jpg)](https://postimg.cc/KKzj7t1s)
+[![Whats-App-Image-2023-11-18-at-9-24-41-AM.jpg](https://i.postimg.cc/sXXgN92T/Whats-App-Image-2023-11-18-at-9-24-41-AM.jpg)](https://postimg.cc/67kK7ZnZ)
 
 # Componentes de Byte
 1. 8 servomotores SG-5010: https://electropro.pe/index.php?route=product/product&product_id=389
