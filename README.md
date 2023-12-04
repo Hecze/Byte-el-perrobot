@@ -6,6 +6,7 @@ Basta con crear una rama en este repositorio para ver en persona tu version pers
 
 # Misión
 Empoderar a las mentes curiosas para que exploren y experimenten con la IA.
+[![Perrobot-prototipo.gif](https://i.postimg.cc/xCxKWj7G/Perrobot-prototipo.gif)](https://postimg.cc/xJmJmQ9q)
 
 # Visión
 Renovar las estrategias educativas. y convertir a los estudiantes en arquitectos de un mundo digital reinventado.
