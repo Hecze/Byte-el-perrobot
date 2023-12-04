@@ -6,6 +6,7 @@ Basta con crear una rama en este repositorio para ver en persona tu version pers
 
 # Misión
 Empoderar a las mentes curiosas para que exploren y experimenten con la IA.
+
 ![](https://github.com/Hecze/Byte-el-perrobot/blob/main/Perrobot%20gift.gif)
 
 # Visión
